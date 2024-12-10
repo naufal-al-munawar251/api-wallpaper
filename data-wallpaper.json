@@ -1,33 +1,40 @@
 [
-
     {
-        "data":"https://cdn.waifu.im/1034.jpeg"
+        "anime":[
+            {
+                "data":"https://cdn.waifu.im/1034.jpeg"
+            },
+            {
+                "data":"https://cdn.waifu.im/476.png"
+            },
+            {
+                "data":"https://cdn.waifu.im/6983.jpeg"
+            },
+            {
+                "data":"https://cdn.waifu.im/526.png"
+            },
+            {
+                "data":"https://cdn.waifu.im/2817.png"
+            }
+        ]
     },
     {
-        "data":"https://cdn.waifu.im/476.png"
-    },
-    {
-        "data":"https://cdn.waifu.im/6983.jpeg"
-    },
-    {
-        "data":"https://cdn.waifu.im/526.png"
-    },
-    {
-        "data":"https://cdn.waifu.im/2817.png"
-    },
-    {
-        "data":"https://cdn.waifu.im/598.jpeg"
-    },
-    {
-        "data":"https://cdn.waifu.im/4929.jpeg"
-    },
-    {
-        "data":"https://cdn.waifu.im/3984.jpeg"
-    },
-    {
-        "data":"https://cdn.waifu.im/5958.jpeg"
-    },
-    {
-        "data":"https://cdn.waifu.im/1541.jpeg"
+        "waifu":[
+            {
+                "data":"https://cdn.waifu.im/1034.jpeg"
+            },
+            {
+                "data":"https://cdn.waifu.im/476.png"
+            },
+            {
+                "data":"https://cdn.waifu.im/6983.jpeg"
+            },
+            {
+                "data":"https://cdn.waifu.im/526.png"
+            },
+            {
+                "data":"https://cdn.waifu.im/2817.png"
+            }
+        ]
     }
 ]
