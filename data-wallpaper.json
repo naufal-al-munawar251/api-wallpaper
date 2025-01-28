@@ -1,146 +1,133 @@
 {
-    {
-        "anime":[
-            {
-                "data":"https://cdn.waifu.im/1034.jpeg"
-            },
-            {
-                "data":"https://cdn.waifu.im/476.png"
-            },
-            {
-                "data":"https://cdn.waifu.im/6983.jpeg"
-            },
-            {
-                "data":"https://cdn.waifu.im/526.png"
-            },
-            {
-                "data":"https://cdn.waifu.im/2817.png"
-            },{
-                "data":"https://cdn.lazyshop.com/files/d2c4f2c8-ada5-455a-86be-728796b838ee/product/8e4d813a87b22f055431bccf87d94768.jpeg"
-            }
-        ]
-    },
-    {
-        "waifu":[
-            {
-                "data":"https://cdn.waifu.im/7048.jpg"
-            },
-            {
-                "data":"https://cdn.waifu.im/1132.jpg"
-            },
-            {
-                "data":"https://cdn.waifu.im/6588.png"
-            },
-            {
-                "data":"https://cdn.waifu.im/505.jpg"
-            },
-            {
-                "data":"https://cdn.waifu.im/3853.jpeg"
-            }
-        ]
-    },
-    {
-        "cosplay":[
-            {
-                "data":"https://4kwallpapers.com/images/wallpapers/kda-ahri-cosplay-5k-3840x2160-18956.png"
-            },
-            {
-                "data":"https://c4.wallpaperflare.com/wallpaper/954/606/513/women-model-cosplay-league-of-legends-shirogane-sama-hd-wallpaper-preview.jpg"
-            },
-            {
-                "data":"https://c4.wallpaperflare.com/wallpaper/11/836/49/women-model-cosplay-indoors-women-indoors-hd-wallpaper-preview.jpg"
-            },
-            {
-                "data":"https://i.pinimg.com/736x/d0/ed/e6/d0ede648137263866981b21fb7ae0be6.jpg"
-            },
-            {
-                "data":"https://img-9gag-fun.9cache.com/photo/a21N4N9_460s.jpg"
-            }
-        ]
-    },
-    {
-        "selfies":[
-            {
-                "data":"https://cdn.waifu.im/7038.jpg"
-            },
-            {
-                "data":"https://cdn.waifu.im/7619.png"
-            },
-            {
-                "data":"https://cdn.waifu.im/7567.jpg"
-            }
-        ]
-    },
-    {
-        "naruto":[
-            {
-                "data":"https://i.pinimg.com/736x/34/c8/d2/34c8d2bc3e49048268e0f28b56f741f0.jpg"
-            },
-            {
-                "data":"https://i.pinimg.com/originals/cf/5a/f3/cf5af39075a2ad3f253cd4633b8e7bbd.jpg"
-            },
-            {
-                "data":"https://wallpapercave.com/wp/wp6539078.png"
-            },
-            {
-                "data":"https://i.pinimg.com/736x/0c/be/5b/0cbe5b202f84ba7e7162219701e5787d.jpg"
-            },
-            {
-                "data":"https://cdn.wallpapersafari.com/7/61/MFUEhW.jpg"
-            },
-            {
-                "data":"https://wallpapercave.com/wp/wp14423596.jpg"
-            }
-        ]
-    },
-    {
-        "hunterxhunter":[
-            {
-                "data":"https://i.pinimg.com/originals/d1/46/5c/d1465c7c68131855f7909127a5096bdb.jpg"
-            },
-            {
-                "data":"https://i.pinimg.com/736x/59/d0/d1/59d0d1790d30c44561bc792fdb1969df.jpg"
-            },
-            {
-                "data":"https://wallpapers.com/images/featured/hunter-x-hunter-6l28uunxtr53l0un.jpg"
-            },
-            {
-                "data":"https://w0.peakpx.com/wallpaper/109/682/HD-wallpaper-hunter-x-hunter-anime-hunterxhunter-thumbnail.jpg"
-            },
-            {
-                "data":"https://wallpapers.com/images/hd/hunter-x-hunter-iphone-hv7a5cubr60hyllh.jpg"
-            },
-            {
-                "data":"https://i.pinimg.com/736x/47/c3/12/47c3128e111ef4bcb3286c97c0cb3956.jpg"
-            },
-            {
-                "data":"https://mrwallpaper.com/images/hd/hunter-x-hunter-puzzle-poster-stkewqyoifkr2hv6.jpg"
-            }
-        ]
-    },
-    {
-        "uniform":[
-            {
-                "data":"https://cdn.waifu.im/8013.png"
-            },
-            {
-                "data":"https://cdn.waifu.im/2343.jpg"
-            },
-            {
-                "data":"https://cdn.waifu.im/7932.jpg"
-            },
-            {
-                "data":"https://cdn.waifu.im/7444.jpg"
-            },
-            {
-                "data":"https://cdn.waifu.im/7028.jpg"
-            },
-            {
-                "data":"https://cdn.waifu.im/876.png"
-            },
-            {
-                "data":"https://cdn.waifu.im/6667.png"
-            }
-        ]
-    }
+    "anime": [
+        {
+            "data": "https://cdn.waifu.im/1034.jpeg"
+        },
+        {
+            "data": "https://cdn.waifu.im/476.png"
+        },
+        {
+            "data": "https://cdn.waifu.im/6983.jpeg"
+        },
+        {
+            "data": "https://cdn.waifu.im/526.png"
+        },
+        {
+            "data": "https://cdn.waifu.im/2817.png"
+        },
+        {
+            "data": "https://cdn.lazyshop.com/files/d2c4f2c8-ada5-455a-86be-728796b838ee/product/8e4d813a87b22f055431bccf87d94768.jpeg"
+        }
+    ],
+    "waifu": [
+        {
+            "data": "https://cdn.waifu.im/7048.jpg"
+        },
+        {
+            "data": "https://cdn.waifu.im/1132.jpg"
+        },
+        {
+            "data": "https://cdn.waifu.im/6588.png"
+        },
+        {
+            "data": "https://cdn.waifu.im/505.jpg"
+        },
+        {
+            "data": "https://cdn.waifu.im/3853.jpeg"
+        }
+    ],
+    "cosplay": [
+        {
+            "data": "https://4kwallpapers.com/images/wallpapers/kda-ahri-cosplay-5k-3840x2160-18956.png"
+        },
+        {
+            "data": "https://c4.wallpaperflare.com/wallpaper/954/606/513/women-model-cosplay-league-of-legends-shirogane-sama-hd-wallpaper-preview.jpg"
+        },
+        {
+            "data": "https://c4.wallpaperflare.com/wallpaper/11/836/49/women-model-cosplay-indoors-women-indoors-hd-wallpaper-preview.jpg"
+        },
+        {
+            "data": "https://i.pinimg.com/736x/d0/ed/e6/d0ede648137263866981b21fb7ae0be6.jpg"
+        },
+        {
+            "data": "https://img-9gag-fun.9cache.com/photo/a21N4N9_460s.jpg"
+        }
+    ],
+    "selfies": [
+        {
+            "data": "https://cdn.waifu.im/7038.jpg"
+        },
+        {
+            "data": "https://cdn.waifu.im/7619.png"
+        },
+        {
+            "data": "https://cdn.waifu.im/7567.jpg"
+        }
+    ],
+    "naruto": [
+        {
+            "data": "https://i.pinimg.com/736x/34/c8/d2/34c8d2bc3e49048268e0f28b56f741f0.jpg"
+        },
+        {
+            "data": "https://i.pinimg.com/originals/cf/5a/f3/cf5af39075a2ad3f253cd4633b8e7bbd.jpg"
+        },
+        {
+            "data": "https://wallpapercave.com/wp/wp6539078.png"
+        },
+        {
+            "data": "https://i.pinimg.com/736x/0c/be/5b/0cbe5b202f84ba7e7162219701e5787d.jpg"
+        },
+        {
+            "data": "https://cdn.wallpapersafari.com/7/61/MFUEhW.jpg"
+        },
+        {
+            "data": "https://wallpapercave.com/wp/wp14423596.jpg"
+        }
+    ],
+    "hunterxhunter": [
+        {
+            "data": "https://i.pinimg.com/originals/d1/46/5c/d1465c7c68131855f7909127a5096bdb.jpg"
+        },
+        {
+            "data": "https://i.pinimg.com/736x/59/d0/d1/59d0d1790d30c44561bc792fdb1969df.jpg"
+        },
+        {
+            "data": "https://wallpapers.com/images/featured/hunter-x-hunter-6l28uunxtr53l0un.jpg"
+        },
+        {
+            "data": "https://w0.peakpx.com/wallpaper/109/682/HD-wallpaper-hunter-x-hunter-anime-hunterxhunter-thumbnail.jpg"
+        },
+        {
+            "data": "https://wallpapers.com/images/hd/hunter-x-hunter-iphone-hv7a5cubr60hyllh.jpg"
+        },
+        {
+            "data": "https://i.pinimg.com/736x/47/c3/12/47c3128e111ef4bcb3286c97c0cb3956.jpg"
+        },
+        {
+            "data": "https://mrwallpaper.com/images/hd/hunter-x-hunter-puzzle-poster-stkewqyoifkr2hv6.jpg"
+        }
+    ],
+    "uniform": [
+        {
+            "data": "https://cdn.waifu.im/8013.png"
+        },
+        {
+            "data": "https://cdn.waifu.im/2343.jpg"
+        },
+        {
+            "data": "https://cdn.waifu.im/7932.jpg"
+        },
+        {
+            "data": "https://cdn.waifu.im/7444.jpg"
+        },
+        {
+            "data": "https://cdn.waifu.im/7028.jpg"
+        },
+        {
+            "data": "https://cdn.waifu.im/876.png"
+        },
+        {
+            "data": "https://cdn.waifu.im/6667.png"
+        }
+    ]
 }
